@@ -36,9 +36,4 @@ Os desenvolvedores podem se inscrever em um bootcamp, progredir nos conteúdos e
 - Programação Orientada a Objetos
 - Stream API
 
-## 📈 Exemplo de execução
 
-```java
-Dev devLeticia = new Dev();
-devLeticia.inscreverBootcamp(bootcamp);
-devLeticia.progredir();
