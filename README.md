@@ -1,18 +1,44 @@
-## Getting Started
+# 🚀 Desafio POO - Bootcamp DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📚 Descrição
 
-## Folder Structure
+Projeto desenvolvido como parte do bootcamp da DIO com o objetivo de aplicar os conceitos fundamentais de Programação Orientada a Objetos (POO) em Java.
 
-The workspace contains two folders by default, where:
+## 🧠 Conceitos aplicados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Abstração
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Stream API
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🏗️ Estrutura do projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O sistema simula uma plataforma de ensino com:
 
-## Dependency Management
+- 📘 Cursos
+- 🎓 Mentorias
+- 👩‍💻 Devs (usuários)
+- 🚀 Bootcamp
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Os desenvolvedores podem se inscrever em um bootcamp, progredir nos conteúdos e acumular experiência (XP).
+
+## ⚙️ Funcionalidades
+
+- Inscrição em bootcamp
+- Listagem de conteúdos inscritos
+- Progressão de conteúdos
+- Cálculo de XP total
+
+## 💻 Tecnologias utilizadas
+
+- Java
+- Programação Orientada a Objetos
+- Stream API
+
+## 📈 Exemplo de execução
+
+```java
+Dev devLeticia = new Dev();
+devLeticia.inscreverBootcamp(bootcamp);
+devLeticia.progredir();
