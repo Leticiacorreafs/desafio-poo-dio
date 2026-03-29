@@ -21,7 +21,6 @@ O sistema simula uma plataforma de ensino com:
 - 👩‍💻 Devs (usuários)
 - 🚀 Bootcamp
 
-Os desenvolvedores podem se inscrever em um bootcamp, progredir nos conteúdos e acumular experiência (XP).
 
 ## ⚙️ Funcionalidades
 
